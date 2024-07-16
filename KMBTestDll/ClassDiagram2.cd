@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Alignment.AlignmentConfig" Collapsed="true">
+    <Position X="16.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAkAABAAIAAAEAAAIAABMAAKAAAgAAAAAIAAUgQAA=</HashCode>
+      <FileName>AlignmentConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Alignment.AlignmentObject" Collapsed="true">
+    <Position X="18.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>AlignmentObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Alignment.RoiPairs" Collapsed="true">
+    <Position X="18.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>AlignmentObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Alignment.AlignmentLimit" Collapsed="true">
+    <Position X="18.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAQAQAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AlignmentObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Slant.SlantConfig" Collapsed="true">
+    <Position X="12.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAkAABAAAAAAAAAgIAAAMAAKgAAAAAIAgAAAAAgAA=</HashCode>
+      <FileName>SlantConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Slant.SlantObject" Collapsed="true">
+    <Position X="14.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>SlantObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Slant.RoiPairs" Collapsed="true">
+    <Position X="14.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>SlantObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Slant.SlantLimit" Collapsed="true">
+    <Position X="14.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAQAQAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SlantObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Height.HeightConfig" Collapsed="true">
+    <Position X="8.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAkAABAAIAAAEAAAAAAAYAACAAACAAAAAAAAUARAA=</HashCode>
+      <FileName>HeightConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Height.HeightObject" Collapsed="true">
+    <Position X="10.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HeightObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Height.HeightLimit" Collapsed="true">
+    <Position X="10.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAQAQAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HeightObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Base.BaseRefer" Collapsed="true">
+    <Position X="6.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>BaseObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Base.BaseObject" Collapsed="true">
+    <Position X="6.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BaseObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Base.BaseConfig" Collapsed="true">
+    <Position X="4.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAgIACAAEAEAAAABAgAAAACCAAAAAAAAAAQAQAAAA=</HashCode>
+      <FileName>BaseConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestSetting.KeyInfo" Collapsed="true">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TestSettingObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestSetting.TestInfo" Collapsed="true">
+    <Position X="2.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACBAAAAAABAAAAAAAAAACAggIAABAAAAAECAAAgIAAA=</HashCode>
+      <FileName>TestSettingObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestSetting.TestSettingObject" Collapsed="true">
+    <Position X="2.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TestSettingObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestSetting.TestSettingConfig" Collapsed="true">
+    <Position X="0.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gCBAjAgCAQgAAAqkAEAACAxgsEJBRACECUoAAIgoaAI=</HashCode>
+      <FileName>TestSettingConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestSetting.ROIRange" Collapsed="true">
+    <Position X="2.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIQAAACEAAAAAA=</HashCode>
+      <FileName>TestSettingConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Result.ResultValue" Collapsed="true">
+    <Position X="21" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABEAAAgABAAAEAACAAgAQAAAACIAAAAAAAAAAAAgA=</HashCode>
+      <FileName>TestResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Result.ResultObject" Collapsed="true">
+    <Position X="20.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AADAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>TestResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KBMTestDll.KBMTester" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="KBMTestDll.KBMTester.testSteps" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>KBMTestDll.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>xgSCxAgSMDwgHQAgIFVkADYAEIQkWJDMsEiAKKQIgoA=</HashCode>
+      <FileName>KBMTestDll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft JhengHei UI" Size="9" />
+</ClassDiagram>

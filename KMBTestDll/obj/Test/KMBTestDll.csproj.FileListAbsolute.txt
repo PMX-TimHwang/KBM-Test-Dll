@@ -1,0 +1,6 @@
+D:\Project\KBM 4in1 AOI testing machine\sotfware\KBM Test Dll\KMBTestDll\bin\Test\KMBTestDll.dll
+D:\Project\KBM 4in1 AOI testing machine\sotfware\KBM Test Dll\KMBTestDll\bin\Test\KMBTestDll.pdb
+D:\Project\KBM 4in1 AOI testing machine\sotfware\KBM Test Dll\KMBTestDll\bin\Test\Newtonsoft.Json.dll
+D:\Project\KBM 4in1 AOI testing machine\sotfware\KBM Test Dll\KMBTestDll\obj\Test\KMBTestDll.dll
+D:\Project\KBM 4in1 AOI testing machine\sotfware\KBM Test Dll\KMBTestDll\obj\Test\KMBTestDll.pdb
+D:\Project\KBM 4in1 AOI testing machine\sotfware\KBM Test Dll\KMBTestDll\obj\Test\KMBTestDll.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+D:\Project\KBM 4in1 AOI testing machine\sotfware\KBM Test Dll\KMBTestDll\bin\Release\KMBTestDll.dll
+D:\Project\KBM 4in1 AOI testing machine\sotfware\KBM Test Dll\KMBTestDll\bin\Release\KMBTestDll.pdb
+D:\Project\KBM 4in1 AOI testing machine\sotfware\KBM Test Dll\KMBTestDll\bin\Release\Newtonsoft.Json.dll
+D:\Project\KBM 4in1 AOI testing machine\sotfware\KBM Test Dll\KMBTestDll\obj\Release\KMBTestDll.csprojResolveAssemblyReference.cache
+D:\Project\KBM 4in1 AOI testing machine\sotfware\KBM Test Dll\KMBTestDll\obj\Release\KMBTestDll.dll
+D:\Project\KBM 4in1 AOI testing machine\sotfware\KBM Test Dll\KMBTestDll\obj\Release\KMBTestDll.pdb
+D:\Project\KBM 4in1 AOI testing machine\sotfware\KBM Test Dll v 0.1.0\KMBTestDll\bin\Release\KMBTestDll.dll
+D:\Project\KBM 4in1 AOI testing machine\sotfware\KBM Test Dll v 0.1.0\KMBTestDll\bin\Release\KMBTestDll.pdb
+D:\Project\KBM 4in1 AOI testing machine\sotfware\KBM Test Dll v 0.1.0\KMBTestDll\bin\Release\Newtonsoft.Json.dll
+D:\Project\KBM 4in1 AOI testing machine\sotfware\KBM Test Dll v 0.1.0\KMBTestDll\obj\Release\KMBTestDll.csprojResolveAssemblyReference.cache
+D:\Project\KBM 4in1 AOI testing machine\sotfware\KBM Test Dll v 0.1.0\KMBTestDll\obj\Release\KMBTestDll.dll
+D:\Project\KBM 4in1 AOI testing machine\sotfware\KBM Test Dll v 0.1.0\KMBTestDll\obj\Release\KMBTestDll.pdb

@@ -1,0 +1,12 @@
+D:\Project\KBM 4in1 AOI testing machine\sotfware\KBM Test Dll\DllTestForm\bin\Debug\DllTestForm.exe.config
+D:\Project\KBM 4in1 AOI testing machine\sotfware\KBM Test Dll\DllTestForm\bin\Debug\DllTestForm.exe
+D:\Project\KBM 4in1 AOI testing machine\sotfware\KBM Test Dll\DllTestForm\bin\Debug\DllTestForm.pdb
+D:\Project\KBM 4in1 AOI testing machine\sotfware\KBM Test Dll\DllTestForm\bin\Debug\KMBTestDll.dll
+D:\Project\KBM 4in1 AOI testing machine\sotfware\KBM Test Dll\DllTestForm\bin\Debug\Newtonsoft.Json.dll
+D:\Project\KBM 4in1 AOI testing machine\sotfware\KBM Test Dll\DllTestForm\bin\Debug\KMBTestDll.pdb
+D:\Project\KBM 4in1 AOI testing machine\sotfware\KBM Test Dll\DllTestForm\obj\Debug\DllTestForm.csprojResolveAssemblyReference.cache
+D:\Project\KBM 4in1 AOI testing machine\sotfware\KBM Test Dll\DllTestForm\obj\Debug\DllTestForm.Form1.resources
+D:\Project\KBM 4in1 AOI testing machine\sotfware\KBM Test Dll\DllTestForm\obj\Debug\DllTestForm.Properties.Resources.resources
+D:\Project\KBM 4in1 AOI testing machine\sotfware\KBM Test Dll\DllTestForm\obj\Debug\DllTestForm.csproj.GenerateResource.Cache
+D:\Project\KBM 4in1 AOI testing machine\sotfware\KBM Test Dll\DllTestForm\obj\Debug\DllTestForm.exe
+D:\Project\KBM 4in1 AOI testing machine\sotfware\KBM Test Dll\DllTestForm\obj\Debug\DllTestForm.pdb
